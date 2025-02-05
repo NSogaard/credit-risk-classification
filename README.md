@@ -1,2 +1,2 @@
-# credit-risk-classification
- A repo for the module #20 challenge of the CWRU Data Analytics Boot Camp
+# Module 20 Challenge
+No outside sources were consulted during the creation of this project outside of the official documentation for a number of the technologies used in this project.
